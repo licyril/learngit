@@ -6,5 +6,4 @@ Git is very userful for me.
 Git is so interesting for users.
 It's my first learn git
 Creating a new branch is quick and simple is yes.
-Hello
 
